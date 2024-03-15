@@ -1,0 +1,8 @@
+v0.1 Basic Graphing Calculator (with functions and basic graphs)
+v0.2 
+-Added tick selection
+-Added fast mode (activate by typing your function first with an !) (e.g. !2x^2-x+16) 
+-Fixed screen enlargement problem
+-Fixed x bug
+
+Plans: add a grid options
